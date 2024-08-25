@@ -1,0 +1,2 @@
+Iteration 1: Initial Structure
+In the first iteration, you'll set up the foundational structure of your recipe website. Start by creating an index.html file within the odin-recipes directory. This file will serve as the homepage of your site. You'll fill this file with the basic HTML boilerplate, which includes the <!DOCTYPE html>, <html>, <head>, and <body> tags. Inside the <body>, add a main heading <h1> with the text "Odin Recipes." This provides a clear title for your site and sets up the page for future content.
