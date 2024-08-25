@@ -1,2 +1,5 @@
 Iteration 1: Initial Structure
 In the first iteration, you'll set up the foundational structure of your recipe website. Start by creating an index.html file within the odin-recipes directory. This file will serve as the homepage of your site. You'll fill this file with the basic HTML boilerplate, which includes the <!DOCTYPE html>, <html>, <head>, and <body> tags. Inside the <body>, add a main heading <h1> with the text "Odin Recipes." This provides a clear title for your site and sets up the page for future content.
+
+Iteration 2: Recipe Page
+Next, create a subdirectory within odin-recipes named recipes to house individual recipe pages. Inside this new directory, create an HTML file for each recipe. Name these files after the recipes they will contain, such as lasagna.html. For now, each recipe page should simply have an <h1> heading with the recipe's name. This serves as a placeholder and helps you organize each recipe page. Return to index.html and add a link to the newly created recipe page. Use the <a> tag to link to recipes/recipename.html, and ensure the link text matches the recipe name for consistency and clarity.
