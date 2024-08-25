@@ -6,4 +6,8 @@ Next, create a subdirectory within odin-recipes named recipes to house individua
 
 
 Iteration 3: Recipe Page Content
-In this iteration, you'll enhance each recipe page by adding detailed content. Begin by including an image of the finished dish below the <h1> heading to visually represent the recipe. Then, add a "Description" heading followed by a paragraph or two describing the recipe's details and background. Under the description, include an "Ingredients" heading and list the ingredients required for the recipe in an unordered list (<ul>). Finally, add a "Steps" heading and outline the preparation steps in an ordered list (<ol>). This structured content will make the recipe pages informative and user-friendly.
+In this iteration, you'll enhance each recipe page by adding detailed content. Begin by including an image of the finished dish below the <h1> heading to visually represent the recipe. Then, add a "Description" heading followed by a paragraph or two describing the recipe's details and background. Under the description, include an "Ingredients" heading and list the ingredients required for the recipe in an unordered list (<ul>). Finally, add a "Steps" heading and outline the preparation steps in an ordered list (<ol>). This structured content will make 
+the recipe pages informative and user-friendly.
+
+Iteration 4: Add More Recipes
+For the final iteration, expand your recipe website by adding two additional recipe pages, each with the same structure as the first one you created. Ensure that each new recipe page includes an image, description, ingredients list, and preparation steps. Update the index.html file to include links to these new recipe pages. To keep the homepage organized, present the recipe links in an unordered list (<ul>) so that they are neatly arranged rather than appearing in a single line. This will make the navigation more intuitive and visually appealing for users.
